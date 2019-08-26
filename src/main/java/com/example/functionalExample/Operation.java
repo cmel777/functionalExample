@@ -1,7 +1,7 @@
 package com.example.functionalExample;
 
-public class Test {
-    public Test() {
+public class Operation {
+    public Operation() {
     }
 
     public int operate(int a, int b, MathOperation mathOperation) {
